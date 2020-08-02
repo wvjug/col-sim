@@ -1,10 +1,6 @@
 # Game Project: Culture Simulator
 # June 26, 2020
 
-#Version 1.1. update: now with basic UI, thank you Wisly, see menus for details
-#version 1.11: finalized ui for prototype, mostly. I think it's playable, as long as you build houses and assign them to clans
-#wisly: search "!!" for places where I have notes for you
-
 import random #importing random: random.randint(1, 6)
 
 
